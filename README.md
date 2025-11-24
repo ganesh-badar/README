@@ -27,9 +27,9 @@
 ### 📌 Projects
 | Project | Tech Used | Repo |
 |--------|-----------|------|
-| 🔹 To-Do List Web App | HTML, CSS, JS | *(Add your repo link here)* |
-| 🔹 Amazon Clone UI | HTML, CSS | *(Add your repo link here)* |
-| 🔹 Countdown Timer | HTML, CSS, JS | *(Add your repo link here)* |
+| 🔹 To-Do List Web App | HTML, CSS, JS | [(https://ganesh-badar.github.io/todolist/)]
+| 🔹 Amazon Clone UI | HTML, CSS | [(https://github.com/ganesh-badar/Amazon-clone)] 
+
 
 > Add more later whenever you want.
 
