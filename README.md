@@ -33,20 +33,6 @@
 
 > Add more later whenever you want.
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-badar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-badar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-badar&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
