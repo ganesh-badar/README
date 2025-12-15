@@ -28,7 +28,7 @@
 | Project | Tech Used | Repo |
 |--------|-----------|------|
 | 🔹 To-Do List Web App | HTML, CSS, JS | https://ganesh-badar.github.io/todolist/
-| 🔹 Amazon Clone UI | HTML, CSS | https://github.com/ganesh-badar/Amazon-clone
+| 🔹 Amazon Clone UI | HTML, CSS | [https://github.com/ganesh-badar/Amazon-clone](https://ganesh-badar.github.io/Amezonclone/)
 
 
 > Add more later whenever you want.
